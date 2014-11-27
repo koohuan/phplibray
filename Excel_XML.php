@@ -1,4 +1,4 @@
-<?php namespace Vendor;
+<?php namespace Lib;
 /**
 * 
 $xls = new Excel_XML;

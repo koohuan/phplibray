@@ -1,4 +1,4 @@
-<?php namespace Vendor;
+<?php namespace Lib;
 /**
    * Spyc -- A Simple PHP YAML Class
    * @version 0.5

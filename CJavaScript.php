@@ -1,4 +1,4 @@
-<?php namespace Vendor;
+<?php namespace Lib;
 /**
  * CJavaScript helper class file.
  *

@@ -1,5 +1,5 @@
 <?php
-namespace Vendor; 
+namespace Lib; 
 class XSS{
 	/*
 	 * XSS filter 

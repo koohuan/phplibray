@@ -8,7 +8,7 @@
 	@license BSD
 	@date 2014 
 */
-namespace Vendor;
+namespace Lib;
 class PhpsecLib{   
 	static $_obj;  
 	static function init() {  
